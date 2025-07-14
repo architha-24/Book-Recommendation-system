@@ -16,13 +16,18 @@ Built using:
 ✅ Displays:
 - Book title
 - Author
-- Similarity score (how related it is to your input)
 
 ✅ Simple, clean web UI (runs locally in your browser).
 
 ✅ Learn **core concepts of content-based recommendation systems**.
 
+
 ---
 
-## 🗂️ Project Structure
+## 🛠️ Setup Instructions
 
+## 1️⃣ Clone this repository:
+
+```bash
+git clone https://github.com/architha-24/book-recommendation-system.git
+cd book-recommendation-system
