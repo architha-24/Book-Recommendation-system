@@ -1,6 +1,5 @@
 import pandas as pd
 
-# Book data with intentional similarities
 data = {
     "title": [
         "Harry Potter and the Sorcerer's Stone",
