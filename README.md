@@ -6,7 +6,7 @@ Built using:
 - 🐍 **Python**
 - 📊 **pandas, scikit-learn**
 - 🖥️ **Streamlit** (for the web interface)
-- 
+ 
 ---
 
 ## 🚀 Features
