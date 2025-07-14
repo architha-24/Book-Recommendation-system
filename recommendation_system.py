@@ -9,7 +9,6 @@ df = pd.read_csv('books.csv')
 df = df[['title', 'authors', 'description']].dropna().drop_duplicates().reset_index(drop=True)
 tfidf = TfidfVectorizer(stop_words='english')
 tfidf_matrix = tfidf.fit_transform(df['description'])
-
 cosine_sim = linear_kernel(tfidf_matrix, tfidf_matrix)
 indices = pd.Series(df.index, index=df['title']).drop_duplicates()
 
