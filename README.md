@@ -21,7 +21,6 @@ Built using:
 
 ✅ Learn **core concepts of content-based recommendation systems**.
 
-
 ---
 
 Live Demo : https://book-recommendation-system-24.streamlit.app/
