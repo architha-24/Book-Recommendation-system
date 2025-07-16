@@ -24,8 +24,4 @@ Built using:
 
 ---
 
-
-## 1️⃣ Clone this repository:
-
-```bash
-git clone https://github.com/architha-24/book-recommendation-system.git
+Live Demo : https://architha-24.github.io/Book-Recommendation-system/
