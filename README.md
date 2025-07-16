@@ -24,4 +24,4 @@ Built using:
 
 ---
 
-Live Demo : https://architha-24.github.io/Book-Recommendation-system/
+Live Demo : https://book-recommendation-system-24.streamlit.app/
