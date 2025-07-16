@@ -12,7 +12,7 @@ Built using:
 ## 🚀 Features
 
 ✅ Enter **any book title** you like (even partial titles or typos).  
-✅ Get **top 5 similar book recommendations** instantly.  
+✅ Get **top 5 similar book recommendations** instantly.
 ✅ Displays:
 - Book title
 - Author
@@ -24,3 +24,6 @@ Built using:
 ---
 
 Live Demo : https://book-recommendation-system-24.streamlit.app/
+⚠️ **Note:** This demo uses a small dataset (20 books) for demonstration purposes.
+
+If you wish to see the books available for testing, please check [`books.csv`](./books.csv) in this repository.
