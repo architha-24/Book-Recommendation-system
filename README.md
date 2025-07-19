@@ -12,7 +12,9 @@ Built using:
 ## 🚀 Features
 
 ✅ Enter **any book title** you like (even partial titles or typos).  
+
 ✅ Get **top 5 similar book recommendations** instantly.
+
 ✅ Displays:
 - Book title
 - Author
