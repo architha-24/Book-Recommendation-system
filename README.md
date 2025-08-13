@@ -25,7 +25,7 @@ Built using:
 
 ---
 
-Live Demo : https://book-recommendation-system-live-demo.netlify.app/
+[Live Demo](https://book-recommendation-system-live-demo.netlify.app/)
 ⚠️ **Note:** This demo uses a small dataset (20 books) for demonstration purposes.
 
 If you wish to see the books available for testing, please check [`books.csv`](./books.csv) in this repository.
